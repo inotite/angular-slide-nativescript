@@ -138,22 +138,6 @@ If the property `pageIndicators` is `true` you won't see the page indicators any
 - Run and deploy to your device or emulator with `npm run android` or `npm run ios`
 - Build a ngPackagr version with `npm run build`
 
-#### Known issues
-
-- Does not work well inside of ScrollView or TabViews.
-
-## Contributors
-
-| [<img alt="TheOriginalJosh" src="https://avatars.githubusercontent.com/u/1486275?v=3&s=117" width="117">](https://github.com/TheOriginalJosh) | [<img alt="dobjek" src="https://avatars.githubusercontent.com/u/353596?v=3&s=117" width="117">](https://github.com/dobjek) | [<img alt="EddyVerbruggen" src="https://avatars.githubusercontent.com/u/1426370?v=3&s=117" width="117">](https://github.com/EddyVerbruggen) | [<img alt="Vahid Najafi" src="https://avatars0.githubusercontent.com/u/11078601?s=460&v=4" width="117">](https://github.com/vahidvdn) | [<img alt="Marco Mantovani" src="https://avatars.githubusercontent.com/u/1965169?v=3&s=117" width="117">](https://github.com/codeback) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|                                               [Josh Sommer](https://github.com/TheOriginalJosh)                                               |                                            [dobjek](https://github.com/dobjek)                                             |                                            [Eddy Verbruggen](https://github.com/EddyVerbruggen)                                             |                                              [Vahid Najafi](https://github.com/vahidvdn)                                              |                                            [Codeback Software](https://github.com/codeback)                                            |
-
-## Contributing guidelines
-
-[Contributing guidelines](https://github.com/TheOriginalJosh/nativescript-swiss-army-knife/blob/master/CONTRIBUTING.md)
-
-## License
-
 [MIT](/LICENSE)
 
 for {N} version 2.0.0+
